@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 Foo
 Bar
 >>>>>>> parent of f9f7ef0... Update 002.txt
+=======
+
+>>>>>>> parent of 6dc6903... Merge pull request #2 from Computarian/A
