@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-
-=======
-Foo
-Bar
->>>>>>> parent of f9f7ef0... Update 002.txt
